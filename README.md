@@ -1,7 +1,9 @@
-# Hello in c language.
------------------------------------
-#include"stdio.h"
-int main()
+#java
+--------------------
+class Test
 {
-  printf("Hello");
+      public Staitc void main( String args[])
+      {
+          System.out.println("Hello");
+      }
 }
