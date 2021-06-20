@@ -1,7 +1,8 @@
-# Hello in c language.
------------------------------------
-#include"stdio.h"
+#C++
+--------------
+#include"iostream"
+using namespace std;
 int main()
 {
-  printf("Hello");
+    cout<<"Hello";
 }
