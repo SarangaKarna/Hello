@@ -1,8 +1,3 @@
-#C++
+#python
 --------------
-#include"iostream"
-using namespace std;
-int main()
-{
-    cout<<"Hello";
-}
+print ("Hello")
